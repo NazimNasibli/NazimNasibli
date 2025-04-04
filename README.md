@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazim Nasibli</h1>
 <h3 align="center">A passionate software engineer freshman in Bilkent University.</h3>
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **C++.**
 
 - 📫 How to reach me **nasiblinazim@gmail.com**
 
